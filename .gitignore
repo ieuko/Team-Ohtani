@@ -1,0 +1,19 @@
+# 依存関係
+node_modules
+api/node_modules
+client/node_modules
+
+# Docker関連
+# コンテナが生成するボリュームの永続化データ
+postgres_data/
+
+# 環境変数と秘密情報
+.env 
+
+# OSが生成するファイル (macOS/Windows)
+.DS_Store
+Thumbs.db
+
+# ビルド成果物
+api/dist/
+client/build/
