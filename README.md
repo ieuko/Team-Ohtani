@@ -1,5 +1,3 @@
-### 2. README.md 用ドキュメント
-
 # 🎓 Syllabus Database System (PERN Stack)
 
 一関高専のシラバスデータを統合・検索・閲覧するためのWebアプリケーションシステムです。
