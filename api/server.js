@@ -20,29 +20,34 @@ app.get('/', (req, res) => {
   res.send('Syllabus API is running!');
 });
 
-// 科目一覧取得API (教員名も結合して取得)
+// 科目一覧取得API
 app.get('/api/subjects', async (req, res) => {
   try {
-    // 科目(subjects)テーブルを主軸に、
-    // 中間テーブル(subject_assignment)と教員(instructors)を左結合(LEFT JOIN)します
+    // 科目(subjects)テーブルを主軸に、教員名を配列にまとめて取得するクエリ
     const query = `
       SELECT 
         s.subject_id,
-        s.academic_year,
         s.grade,
         s.department,
         s.semester,
         s.subject_name,
-        s.subject_category,
+        s.subject_category,      -- "専門" など
+        s.registration_category, -- "必修" など
+        s.credit_type,
         s.credits,
         s.class_format,
-        i.instructor_name
+        s.classification,        -- "必履修" など
+        s.syllabus_url,          -- URL
+        -- 教員名を配列として集約して取得 (重複排除)
+        array_remove(array_agg(DISTINCT i.instructor_name), NULL) as instructors
       FROM 
         subjects s
       LEFT JOIN 
         subject_assignment sa ON s.subject_id = sa.subject_id
       LEFT JOIN 
         instructors i ON sa.instructor_id = i.instructor_id
+      GROUP BY
+        s.subject_id
       ORDER BY 
         s.grade ASC, s.subject_id ASC;
     `;

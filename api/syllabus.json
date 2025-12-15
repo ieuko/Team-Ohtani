@@ -1,0 +1,4092 @@
+[
+    {
+        "grade": "1",
+        "department": "一般科目",
+        "semester": "前期",
+        "name": "総合英語ⅠA",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "下川 理英"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0001&year=2025&lang=ja"
+    },
+    {
+        "grade": "1",
+        "department": "一般科目",
+        "semester": "前期",
+        "name": "英文法A",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "佐々木 智巳",
+            "下川 理英"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0002&year=2025&lang=ja"
+    },
+    {
+        "grade": "1",
+        "department": "一般科目",
+        "semester": "後期",
+        "name": "総合英語ⅠB",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "下川 理英"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0003&year=2025&lang=ja"
+    },
+    {
+        "grade": "1",
+        "department": "一般科目",
+        "semester": "後期",
+        "name": "英文法B",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "東ヶ崎 祐一",
+            "下川 理英"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0004&year=2025&lang=ja"
+    },
+    {
+        "grade": "1",
+        "department": "一般科目",
+        "semester": "通年",
+        "name": "歴史",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "松浦 千春"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0005&year=2025&lang=ja"
+    },
+    {
+        "grade": "1",
+        "department": "一般科目",
+        "semester": "後期",
+        "name": "地理",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "平林 一隆"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0006&year=2025&lang=ja"
+    },
+    {
+        "grade": "1",
+        "department": "一般科目",
+        "semester": "通年",
+        "name": "国語Ⅰ",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "津田 大樹"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0007&year=2025&lang=ja"
+    },
+    {
+        "grade": "1",
+        "department": "一般科目",
+        "semester": "通年",
+        "name": "基礎数学Ⅱ",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "高橋 知邦",
+            "佐藤 一樹"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0008&year=2025&lang=ja"
+    },
+    {
+        "grade": "1",
+        "department": "一般科目",
+        "semester": "後期",
+        "name": "基礎数学ⅠB",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "岩渕 晴",
+            "中川 勝國"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0009&year=2025&lang=ja"
+    },
+    {
+        "grade": "1",
+        "department": "一般科目",
+        "semester": "前期",
+        "name": "基礎数学ⅠA",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "岩渕 晴",
+            "中川 勝國"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0010&year=2025&lang=ja"
+    },
+    {
+        "grade": "1",
+        "department": "一般科目",
+        "semester": "後期",
+        "name": "基礎物理",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "白井 仁人",
+            "川島 朋尚"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0011&year=2025&lang=ja"
+    },
+    {
+        "grade": "1",
+        "department": "一般科目",
+        "semester": "前期",
+        "name": "化学ⅠＡ",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "中川 裕子",
+            "木村 寛恵"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0012&year=2025&lang=ja"
+    },
+    {
+        "grade": "1",
+        "department": "一般科目",
+        "semester": "前期",
+        "name": "生物・地学",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "堀江 佐知子"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0013&year=2025&lang=ja"
+    },
+    {
+        "grade": "1",
+        "department": "一般科目",
+        "semester": "通年",
+        "name": "保健体育Ⅰ",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "加藤 研三"
+        ],
+        "class_style": "実技",
+        "classification": "",
+        "page": "department_id=11&subject_id=0014&year=2025&lang=ja"
+    },
+    {
+        "grade": "1",
+        "department": "一般科目",
+        "semester": "後期",
+        "name": "化学ⅠＢ",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "中川 裕子",
+            "木村 寛恵",
+            "冨永 陽子"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0015&year=2025&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "一般科目",
+        "semester": "前期",
+        "name": "国語ⅡA",
+        "category": "一般/必修",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "中崎 和博"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0016&year=2024&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "一般科目",
+        "semester": "後期",
+        "name": "国語ⅡB",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "中崎 和博"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0017&year=2024&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "一般科目",
+        "semester": "通年",
+        "name": "倫理",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "千田 芳樹"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0018&year=2024&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "一般科目",
+        "semester": "前期",
+        "name": "美術",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "及川 武芳"
+        ],
+        "class_style": "実技",
+        "classification": "",
+        "page": "department_id=11&subject_id=0019&year=2024&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "一般科目",
+        "semester": "前期",
+        "name": "音楽",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "舞石 美和"
+        ],
+        "class_style": "実技",
+        "classification": "",
+        "page": "department_id=11&subject_id=0020&year=2024&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "一般科目",
+        "semester": "後期",
+        "name": "英語表現Ⅰ",
+        "category": "一般/必修",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "二本柳 譲治"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0021&year=2024&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "一般科目",
+        "semester": "前期",
+        "name": "英会話A",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "千葉 圭"
+        ],
+        "class_style": "実技",
+        "classification": "",
+        "page": "department_id=11&subject_id=0022&year=2024&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "一般科目",
+        "semester": "前期",
+        "name": "総合英語ⅡA",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "二本柳 譲治"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0024&year=2024&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "一般科目",
+        "semester": "後期",
+        "name": "総合英語ⅡB",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "二本柳 譲治"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0025&year=2024&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "一般科目",
+        "semester": "前期",
+        "name": "微分積分ⅠA",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "佐藤 一樹",
+            "高橋 知邦"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0026&year=2024&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "一般科目",
+        "semester": "後期",
+        "name": "微分積分ⅠB",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "佐藤 一樹",
+            "高橋 知邦"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0027&year=2024&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "一般科目",
+        "semester": "通年",
+        "name": "線形代数Ⅰ",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "十鳥 健太",
+            "松尾 幸二"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0028&year=2024&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "一般科目",
+        "semester": "前期",
+        "name": "物理ⅠA",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "谷川 享行",
+            "岩田 悠平"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0029&year=2024&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "一般科目",
+        "semester": "後期",
+        "name": "物理ⅠB",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "谷川 享行",
+            "岩田 悠平"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0030&year=2024&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "一般科目",
+        "semester": "前期",
+        "name": "化学ⅡＡ",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "冨永 陽子"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0031&year=2024&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "一般科目",
+        "semester": "通年",
+        "name": "保健体育Ⅱ",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "安倍 健太郎"
+        ],
+        "class_style": "実技",
+        "classification": "",
+        "page": "department_id=11&subject_id=0032&year=2024&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "一般科目",
+        "semester": "前期",
+        "name": "化学ⅡＣ",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "大嶋 江利子"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0033&year=2024&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "一般科目",
+        "semester": "後期",
+        "name": "化学ⅡＢ",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "冨永 陽子"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0034&year=2024&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "一般科目",
+        "semester": "後期",
+        "name": "化学ⅡD",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "照井 教文"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0035&year=2024&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "一般科目",
+        "semester": "後期",
+        "name": "英会話B",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "千葉 圭"
+        ],
+        "class_style": "実技",
+        "classification": "",
+        "page": "department_id=11&subject_id=0038&year=2024&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "一般科目",
+        "semester": "通年",
+        "name": "国語Ⅲ",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "津田 大樹"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0039&year=2023&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "一般科目",
+        "semester": "前期",
+        "name": "政治・経済",
+        "category": "一般/必修",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "平林 一隆"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0040&year=2023&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "一般科目",
+        "semester": "前期",
+        "name": "総合英語ⅢA",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "寺嶋 大輔",
+            "下川 理英"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0041&year=2023&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "一般科目",
+        "semester": "後期",
+        "name": "総合英語ⅢB",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "寺嶋 大輔",
+            "下川 理英"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0042&year=2023&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "一般科目",
+        "semester": "後期",
+        "name": "英語表現Ⅱ",
+        "category": "一般/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "下川 理英",
+            "千葉 圭"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0043&year=2023&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "一般科目",
+        "semester": "通年",
+        "name": "日本語Ⅰ",
+        "category": "一般/選択",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "平野 一成"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0044&year=2023&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "一般科目",
+        "semester": "前期",
+        "name": "日本語ⅡＡ",
+        "category": "一般/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "平野 一成"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0045&year=2023&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "一般科目",
+        "semester": "後期",
+        "name": "日本語ⅡＢ",
+        "category": "一般/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "平野 一成"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0046&year=2023&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "一般科目",
+        "semester": "通年",
+        "name": "微分積分Ⅱ",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "松尾 幸二"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0047&year=2023&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "一般科目",
+        "semester": "前期",
+        "name": "線形代数Ⅱ",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "佐藤 一樹",
+            "片方 江",
+            "仲田 陽一"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0048&year=2023&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "一般科目",
+        "semester": "通年",
+        "name": "解析学Ⅰ",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "中川 勝國",
+            "岩渕 晴"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0049&year=2023&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "一般科目",
+        "semester": "後期",
+        "name": "解析学Ⅱ",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "岩渕 晴",
+            "片方 江",
+            "仲田 陽一"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0050&year=2023&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "一般科目",
+        "semester": "前期",
+        "name": "物理ⅡA",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "白井 仁人",
+            "川島 朋尚"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0051&year=2023&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "一般科目",
+        "semester": "前期",
+        "name": "物理ⅡＣ",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "白井 仁人",
+            "川島 朋尚"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0052&year=2023&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "一般科目",
+        "semester": "通年",
+        "name": "保健体育Ⅲ",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "加藤 研三"
+        ],
+        "class_style": "実技",
+        "classification": "",
+        "page": "department_id=11&subject_id=0053&year=2023&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "一般科目",
+        "semester": "後期",
+        "name": "物理ⅡＢ",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "白井 仁人",
+            "川島 朋尚"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0054&year=2023&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "一般科目",
+        "semester": "後期",
+        "name": "物理ⅡＤ",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "岩田 悠平"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0055&year=2023&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "一般科目",
+        "semester": "前期",
+        "name": "英語演習Ⅰ",
+        "category": "一般/必修",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "酒井 紀行",
+            "下川 理英"
+        ],
+        "class_style": "演習",
+        "classification": "",
+        "page": "department_id=11&subject_id=0056&year=2022&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "一般科目",
+        "semester": "通年",
+        "name": "人文社会科学Ⅰ",
+        "category": "一般/選択",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "松浦 千春",
+            "平林 一隆",
+            "千田 芳樹",
+            "海野 洋平"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0057&year=2022&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "一般科目",
+        "semester": "後期",
+        "name": "第二外国語Ⅰ（中国語Ⅰ）",
+        "category": "一般/必修",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "陳 茜"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0058&year=2022&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "一般科目",
+        "semester": "前期",
+        "name": "日本語表現法",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "中崎 和博"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0059&year=2022&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "一般科目",
+        "semester": "後期",
+        "name": "文学",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "中崎 和博"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0060&year=2022&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "一般科目",
+        "semester": "後期",
+        "name": "第二外国語Ⅰ（ドイツ語Ⅰ）",
+        "category": "一般/必修",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "小原 森生"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0061&year=2022&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "一般科目",
+        "semester": "通年",
+        "name": "体育",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "安倍 健太郎"
+        ],
+        "class_style": "実技",
+        "classification": "",
+        "page": "department_id=11&subject_id=0062&year=2022&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "一般科目",
+        "semester": "後期",
+        "name": "英語演習Ⅱ",
+        "category": "一般/必修",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "酒井 紀行",
+            "下川 理英"
+        ],
+        "class_style": "演習",
+        "classification": "",
+        "page": "department_id=11&subject_id=0063&year=2021&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "一般科目",
+        "semester": "通年",
+        "name": "哲学",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "千田 芳樹"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0064&year=2021&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "一般科目",
+        "semester": "通年",
+        "name": "歴史学",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "松浦 千春"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0065&year=2021&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "一般科目",
+        "semester": "通年",
+        "name": "法学",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "阿部 憲記"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0066&year=2021&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "一般科目",
+        "semester": "通年",
+        "name": "経済学",
+        "category": "一般/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "平林 一隆"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0067&year=2021&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "一般科目",
+        "semester": "前期",
+        "name": "第二外国語Ⅱ（ドイツ語Ⅱ）",
+        "category": "一般/選択",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "小原 森生"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0068&year=2021&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "一般科目",
+        "semester": "前期",
+        "name": "第二外国語Ⅱ（中国語Ⅱ）",
+        "category": "一般/選択",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "陳 茜"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0069&year=2021&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "一般科目",
+        "semester": "前期",
+        "name": "人文社会科学Ⅱ",
+        "category": "一般/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "津田 大樹",
+            "平林 一隆",
+            "千田 芳樹"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=11&subject_id=0070&year=2021&lang=ja"
+    },
+    {
+        "grade": "1",
+        "department": "共通専門科目",
+        "semester": "前期",
+        "name": "3Dモデリング",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "藤原 康宣",
+            "井上 翔"
+        ],
+        "class_style": "実習",
+        "classification": "",
+        "page": "department_id=12&subject_id=0001&year=2025&lang=ja"
+    },
+    {
+        "grade": "1",
+        "department": "共通専門科目",
+        "semester": "通年",
+        "name": "情報リテラシー",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "千田 栄幸",
+            "和山 正人",
+            "小林 健一",
+            "水津 俊介",
+            "村上 力"
+        ],
+        "class_style": "演習",
+        "classification": "",
+        "page": "department_id=12&subject_id=0002&year=2025&lang=ja"
+    },
+    {
+        "grade": "1",
+        "department": "共通専門科目",
+        "semester": "前期",
+        "name": "ものづくり実験実習M",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "村上 明",
+            "中嶋 剛"
+        ],
+        "class_style": "実習",
+        "classification": "",
+        "page": "department_id=12&subject_id=0003&year=2025&lang=ja"
+    },
+    {
+        "grade": "1",
+        "department": "共通専門科目",
+        "semester": "前期",
+        "name": "ものづくり実験実習E",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "藤田 実樹",
+            "水穴 裕真"
+        ],
+        "class_style": "実習",
+        "classification": "",
+        "page": "department_id=12&subject_id=0004&year=2025&lang=ja"
+    },
+    {
+        "grade": "1",
+        "department": "共通専門科目",
+        "semester": "後期",
+        "name": "ものづくり実験実習J",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "水津 俊介",
+            "藤本 恵莉華"
+        ],
+        "class_style": "実習",
+        "classification": "",
+        "page": "department_id=12&subject_id=0005&year=2025&lang=ja"
+    },
+    {
+        "grade": "1",
+        "department": "共通専門科目",
+        "semester": "後期",
+        "name": "ものづくり実験実習C",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "木村 寛恵",
+            "冨永 陽子",
+            "大嶋 江利子",
+            "中川 裕子",
+            "星 靖"
+        ],
+        "class_style": "実習",
+        "classification": "",
+        "page": "department_id=12&subject_id=0006&year=2025&lang=ja"
+    },
+    {
+        "grade": "1",
+        "department": "共通専門科目",
+        "semester": "通年",
+        "name": "系導入セミナー",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "中山 淳",
+            "藤田 実樹",
+            "谷林 慧",
+            "千田 栄幸",
+            "阿部 林治",
+            "渡邊 崇",
+            "照井 教文"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=12&subject_id=0007&year=2025&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "共通専門科目",
+        "semester": "集中",
+        "name": "校外実習（A）",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "村上 明",
+            "藤田 実樹",
+            "阿部 林治",
+            "渡邊 崇"
+        ],
+        "class_style": "実習",
+        "classification": "",
+        "page": "department_id=12&subject_id=0008&year=2023&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "共通専門科目",
+        "semester": "集中",
+        "name": "校外実習（B）",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "村上 明",
+            "藤田 実樹",
+            "阿部 林治",
+            "渡邊 崇"
+        ],
+        "class_style": "実習",
+        "classification": "",
+        "page": "department_id=12&subject_id=0009&year=2023&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "共通専門科目",
+        "semester": "前期",
+        "name": "実践技術Ⅰ",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "村上 明",
+            "明石 尚之",
+            "小林 健一",
+            "松尾 直志",
+            "二階堂 満"
+        ],
+        "class_style": "演習",
+        "classification": "",
+        "page": "department_id=12&subject_id=0010&year=2022&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "共通専門科目",
+        "semester": "前期",
+        "name": "実践技術Ⅱ",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "八戸 俊貴",
+            "山下 将嗣",
+            "小林 健一",
+            "曾根 周作",
+            "滝渡 幸治"
+        ],
+        "class_style": "演習",
+        "classification": "",
+        "page": "department_id=12&subject_id=0011&year=2021&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "機械・知能系",
+        "semester": "通年",
+        "name": "機械設計実習",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "井上 翔"
+        ],
+        "class_style": "実習",
+        "classification": "",
+        "page": "department_id=13&subject_id=0001&year=2023&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "機械・知能系",
+        "semester": "通年",
+        "name": "機械工作法",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "原 圭祐"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=13&subject_id=0002&year=2023&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "機械・知能系",
+        "semester": "通年",
+        "name": "機械工作実習",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "中嶋 剛",
+            "村上 明"
+        ],
+        "class_style": "実習",
+        "classification": "",
+        "page": "department_id=13&subject_id=0003&year=2023&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "機械・知能系",
+        "semester": "後期",
+        "name": "材料工学Ⅰ",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "村上 明"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=13&subject_id=0004&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "機械・知能系",
+        "semester": "前期",
+        "name": "メカニズム",
+        "category": "専門/必修",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "藤原 康宣"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=13&subject_id=0005&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "機械・知能系",
+        "semester": "後期",
+        "name": "電気工学",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "三浦 弘樹"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=13&subject_id=0006&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "機械・知能系",
+        "semester": "前期",
+        "name": "情報処理",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "鈴木 明宏"
+        ],
+        "class_style": "演習",
+        "classification": "",
+        "page": "department_id=13&subject_id=0007&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "機械・知能系",
+        "semester": "前期",
+        "name": "機械システム設計実習",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "藤原 康宣",
+            "八戸 俊貴"
+        ],
+        "class_style": "実習",
+        "classification": "",
+        "page": "department_id=13&subject_id=0008&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "機械・知能系",
+        "semester": "後期",
+        "name": "機械システム制御実習",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "藤原 康宣",
+            "八戸 俊貴"
+        ],
+        "class_style": "実習",
+        "classification": "",
+        "page": "department_id=13&subject_id=0009&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "機械・知能系",
+        "semester": "前期",
+        "name": "未来創造セミナー",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "鈴木 明宏",
+            "中山 淳"
+        ],
+        "class_style": "演習",
+        "classification": "",
+        "page": "department_id=13&subject_id=0010&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "機械・知能系",
+        "semester": "後期",
+        "name": "分野展開セミナー",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "若嶋 振一郎"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=13&subject_id=0011&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "機械・知能系",
+        "semester": "前期",
+        "name": "応用物理Ⅰ",
+        "category": "専門/必修",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "白井 仁人"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=13&subject_id=0012&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "機械・知能系",
+        "semester": "後期",
+        "name": "材料力学Ⅰ",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "中嶋 剛"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=13&subject_id=0013&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "機械・知能系",
+        "semester": "前期",
+        "name": "工業力学",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "三浦 弘樹"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=13&subject_id=0014&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "機械・知能系",
+        "semester": "後期",
+        "name": "機械加工学",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "原 圭祐"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=13&subject_id=0015&year=2022&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "機械・知能系",
+        "semester": "後期",
+        "name": "分野専門セミナー",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "中嶋 剛"
+        ],
+        "class_style": "実習",
+        "classification": "",
+        "page": "department_id=13&subject_id=0016&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "機械・知能系",
+        "semester": "後期",
+        "name": "地域創造学",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "鈴木 明宏",
+            "中嶋 剛"
+        ],
+        "class_style": "演習",
+        "classification": "",
+        "page": "department_id=13&subject_id=0017&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "機械・知能系",
+        "semester": "前期",
+        "name": "応用数学",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "三浦 弘樹"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=13&subject_id=0018&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "機械・知能系",
+        "semester": "前期",
+        "name": "微分方程式",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "中山 淳"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=13&subject_id=0019&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "機械・知能系",
+        "semester": "後期",
+        "name": "CAE",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "若嶋 振一郎"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=13&subject_id=0020&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "機械・知能系",
+        "semester": "後期",
+        "name": "数値・情報解析",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "井上 翔"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=13&subject_id=0021&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "機械・知能系",
+        "semester": "通年",
+        "name": "機械設計・要素学",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "井上 翔"
+        ],
+        "class_style": "実験",
+        "classification": "",
+        "page": "department_id=13&subject_id=0022&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "機械・知能系",
+        "semester": "後期",
+        "name": "基礎制御工学",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "中山 淳"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=13&subject_id=0023&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "機械・知能系",
+        "semester": "前期",
+        "name": "メカトロニクス",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "鈴木 明宏"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=13&subject_id=0024&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "機械・知能系",
+        "semester": "後期",
+        "name": "流体力学",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "八戸 俊貴"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=13&subject_id=0025&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "機械・知能系",
+        "semester": "前期",
+        "name": "熱力学",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "若嶋 振一郎"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=13&subject_id=0026&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "機械・知能系",
+        "semester": "前期",
+        "name": "機械力学",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "原 圭祐"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=13&subject_id=0027&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "機械・知能系",
+        "semester": "後期",
+        "name": "材料工学Ⅱ",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "村上 明"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=13&subject_id=0028&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "機械・知能系",
+        "semester": "前期",
+        "name": "材料力学Ⅱ",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "中嶋 剛"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=13&subject_id=0029&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "機械・知能系",
+        "semester": "通年",
+        "name": "機械・知能システム実験",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "中嶋 剛",
+            "若嶋 振一郎",
+            "村上 明",
+            "原 圭祐",
+            "八戸 俊貴"
+        ],
+        "class_style": "実習",
+        "classification": "",
+        "page": "department_id=13&subject_id=0030&year=2021&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "機械・知能系",
+        "semester": "通年",
+        "name": "卒業研究",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "10",
+        "instructors": [
+            "中嶋 剛"
+        ],
+        "class_style": "演習",
+        "classification": "",
+        "page": "department_id=13&subject_id=0031&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "機械・知能系",
+        "semester": "前期",
+        "name": "工業英語",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "中嶋 剛"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=13&subject_id=0032&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "機械・知能系",
+        "semester": "後期",
+        "name": "確率・統計",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "鈴木 明宏"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=13&subject_id=0033&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "機械・知能系",
+        "semester": "前期",
+        "name": "機械総合設計実習",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "鈴木 明宏",
+            "三浦 弘樹"
+        ],
+        "class_style": "実習",
+        "classification": "",
+        "page": "department_id=13&subject_id=0034&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "機械・知能系",
+        "semester": "前期",
+        "name": "伝熱工学",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "井上 翔"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=13&subject_id=0035&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "機械・知能系",
+        "semester": "後期",
+        "name": "エネルギー変換工学",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "井上 翔"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=13&subject_id=0036&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "機械・知能系",
+        "semester": "前期",
+        "name": "応用制御工学",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "中山 淳"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=13&subject_id=0037&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "機械・知能系",
+        "semester": "後期",
+        "name": "熱機関",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "若嶋 振一郎"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=13&subject_id=0038&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "機械・知能系",
+        "semester": "後期",
+        "name": "応用機械材料工学",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "中嶋 剛"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=13&subject_id=0039&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "機械・知能系",
+        "semester": "後期",
+        "name": "工作機械",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "原 圭祐"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=13&subject_id=0040&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "機械・知能系",
+        "semester": "後期",
+        "name": "計測工学",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "三浦 弘樹"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=13&subject_id=0041&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "機械・知能系",
+        "semester": "後期",
+        "name": "ロボット工学",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "藤原 康宣"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=13&subject_id=0042&year=2020&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "電気・電子系",
+        "semester": "後期",
+        "name": "電気回路Ⅰ",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "水穴 裕真"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=14&subject_id=0001&year=2023&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "電気・電子系",
+        "semester": "後期",
+        "name": "ディジタル回路Ⅰ",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "小野 孝文"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=14&subject_id=0002&year=2023&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "電気・電子系",
+        "semester": "後期",
+        "name": "プログラミングⅠ",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "谷林 慧"
+        ],
+        "class_style": "演習",
+        "classification": "",
+        "page": "department_id=14&subject_id=0003&year=2023&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "電気・電子系",
+        "semester": "前期",
+        "name": "電気電子製図",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "佐藤 和輝"
+        ],
+        "class_style": "実習",
+        "classification": "",
+        "page": "department_id=14&subject_id=0004&year=2023&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "電気・電子系",
+        "semester": "前期",
+        "name": "電気情報工学基礎実験Ⅰ",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "山下 将嗣",
+            "藤田 実樹"
+        ],
+        "class_style": "実習",
+        "classification": "",
+        "page": "department_id=14&subject_id=0005&year=2023&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "電気・電子系",
+        "semester": "後期",
+        "name": "電気磁気学Ⅰ",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "佐藤 和輝"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=14&subject_id=0006&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "電気・電子系",
+        "semester": "通年",
+        "name": "電気回路Ⅱ",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "山下 将嗣"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=14&subject_id=0007&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "電気・電子系",
+        "semester": "前期",
+        "name": "ディジタル回路Ⅱ",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "小野 孝文"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=14&subject_id=0008&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "電気・電子系",
+        "semester": "後期",
+        "name": "電子回路",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "豊田 計時"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=14&subject_id=0009&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "電気・電子系",
+        "semester": "後期",
+        "name": "電気機器Ⅰ",
+        "category": "専門/必修",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "川合 勇輔"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=14&subject_id=0010&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "電気・電子系",
+        "semester": "前期",
+        "name": "プログラミングⅡ",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "谷林 慧"
+        ],
+        "class_style": "演習",
+        "classification": "",
+        "page": "department_id=14&subject_id=0011&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "電気・電子系",
+        "semester": "通年",
+        "name": "電気情報工学基礎実験Ⅱ",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "4",
+        "instructors": [
+            "小野 孝文",
+            "明石 尚之",
+            "佐藤 和輝",
+            "山下 将嗣"
+        ],
+        "class_style": "実験",
+        "classification": "",
+        "page": "department_id=14&subject_id=0012&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "電気・電子系",
+        "semester": "前期",
+        "name": "未来創造セミナー",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "佐藤 和輝",
+            "水穴 裕真"
+        ],
+        "class_style": "演習",
+        "classification": "",
+        "page": "department_id=14&subject_id=0013&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "電気・電子系",
+        "semester": "後期",
+        "name": "分野展開セミナー",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "佐藤 和輝",
+            "水穴 裕真"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=14&subject_id=0014&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "電気・電子系",
+        "semester": "前期",
+        "name": "応用物理Ⅰ",
+        "category": "専門/必修",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "白井 仁人"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=14&subject_id=0015&year=2022&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "電気・電子系",
+        "semester": "後期",
+        "name": "分野専門セミナー",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "谷林 慧"
+        ],
+        "class_style": "実習",
+        "classification": "",
+        "page": "department_id=14&subject_id=0016&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "電気・電子系",
+        "semester": "後期",
+        "name": "地域創造学",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "明石 尚之"
+        ],
+        "class_style": "演習",
+        "classification": "",
+        "page": "department_id=14&subject_id=0017&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "電気・電子系",
+        "semester": "後期",
+        "name": "電気情報工学応用実験Ⅰ",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "藤田 実樹",
+            "川合 勇輔",
+            "水穴 裕真"
+        ],
+        "class_style": "実験",
+        "classification": "",
+        "page": "department_id=14&subject_id=0018&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "電気・電子系",
+        "semester": "通年",
+        "name": "創成工学実験",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "川合 勇輔",
+            "谷林 慧"
+        ],
+        "class_style": "実験",
+        "classification": "",
+        "page": "department_id=14&subject_id=0019&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "電気・電子系",
+        "semester": "通年",
+        "name": "電気磁気学Ⅱ",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "明石 尚之"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=14&subject_id=0020&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "電気・電子系",
+        "semester": "前期",
+        "name": "電気回路Ⅲ",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "藤田 実樹"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=14&subject_id=0021&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "電気・電子系",
+        "semester": "通年",
+        "name": "電気機器Ⅱ",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "秋山 雅裕",
+            "小野 孝文"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=14&subject_id=0022&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "電気・電子系",
+        "semester": "後期",
+        "name": "発電・変電工学",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "秋山 雅裕",
+            "佐藤 和輝"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=14&subject_id=0023&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "電気・電子系",
+        "semester": "前期",
+        "name": "高電圧工学",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "秋山 雅裕",
+            "佐藤 和輝"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=14&subject_id=0024&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "電気・電子系",
+        "semester": "前期",
+        "name": "応用数学Ⅰ",
+        "category": "専門/必修",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "谷林 慧"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=14&subject_id=0025&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "電気・電子系",
+        "semester": "前期",
+        "name": "応用数学Ⅱ",
+        "category": "専門/必修",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "十鳥 健太"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=14&subject_id=0026&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "電気・電子系",
+        "semester": "前期",
+        "name": "基礎力学",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "長谷川 幸彦"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=14&subject_id=0027&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "電気・電子系",
+        "semester": "後期",
+        "name": "電気電子材料",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "谷林 慧"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=14&subject_id=0028&year=2021&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "電気・電子系",
+        "semester": "通年",
+        "name": "卒業研究",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "10",
+        "instructors": [
+            "藤田 実樹"
+        ],
+        "class_style": "演習",
+        "classification": "",
+        "page": "department_id=14&subject_id=0029&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "電気・電子系",
+        "semester": "前期",
+        "name": "電気情報工学応用実験Ⅱ",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "谷林 慧",
+            "小野 孝文",
+            "川合 勇輔"
+        ],
+        "class_style": "実験",
+        "classification": "",
+        "page": "department_id=14&subject_id=0030&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "電気・電子系",
+        "semester": "前期",
+        "name": "電気磁気学Ⅲ",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "明石 尚之"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=14&subject_id=0031&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "電気・電子系",
+        "semester": "前期",
+        "name": "電気回路Ⅳ",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "山下 将嗣"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=14&subject_id=0032&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "電気・電子系",
+        "semester": "前期",
+        "name": "パワーエレクトロニクス",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "川合 勇輔"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=14&subject_id=0033&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "電気・電子系",
+        "semester": "前期",
+        "name": "制御工学",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "川合 勇輔"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=14&subject_id=0034&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "電気・電子系",
+        "semester": "後期",
+        "name": "送配電工学",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "藤田 実樹"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=14&subject_id=0035&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "電気・電子系",
+        "semester": "後期",
+        "name": "電気電子計測",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "山下 将嗣"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=14&subject_id=0036&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "電気・電子系",
+        "semester": "後期",
+        "name": "電気応用工学",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "小野 孝文"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=14&subject_id=0037&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "電気・電子系",
+        "semester": "後期",
+        "name": "電子回路・電気機器設計",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "小野 孝文",
+            "藤田 実樹"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=14&subject_id=0038&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "電気・電子系",
+        "semester": "後期",
+        "name": "電気法規・電気施設管理",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "明石 尚之"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=14&subject_id=0039&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "電気・電子系",
+        "semester": "後期",
+        "name": "工業英語",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "小野 孝文"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=14&subject_id=0040&year=2020&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "情報・ソフトウェア系",
+        "semester": "通年",
+        "name": "電気電子基礎",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "豊田 計時"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=15&subject_id=0001&year=2023&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "情報・ソフトウェア系",
+        "semester": "通年",
+        "name": "プログラミング言語",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "水津 俊介",
+            "和山 正人"
+        ],
+        "class_style": "演習",
+        "classification": "",
+        "page": "department_id=15&subject_id=0002&year=2023&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "情報・ソフトウェア系",
+        "semester": "通年",
+        "name": "プログラミング演習",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "水津 俊介",
+            "和山 正人"
+        ],
+        "class_style": "演習",
+        "classification": "",
+        "page": "department_id=15&subject_id=0003&year=2023&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "情報・ソフトウェア系",
+        "semester": "後期",
+        "name": "確率統計",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "村上 力"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=15&subject_id=0004&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "情報・ソフトウェア系",
+        "semester": "後期",
+        "name": "応用物理Ⅱ",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "阿部 林治",
+            "遠藤  新一"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=15&subject_id=0005&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "情報・ソフトウェア系",
+        "semester": "前期",
+        "name": "電気磁気学",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "小林 健一"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=15&subject_id=0006&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "情報・ソフトウェア系",
+        "semester": "前期",
+        "name": "論理回路",
+        "category": "専門/必修",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "阿部 林治"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=15&subject_id=0007&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "情報・ソフトウェア系",
+        "semester": "後期",
+        "name": "情報数学",
+        "category": "専門/必修",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "小保方 幸次"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=15&subject_id=0008&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "情報・ソフトウェア系",
+        "semester": "通年",
+        "name": "応用プログラミング",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "小林 健一",
+            "曾根 周作"
+        ],
+        "class_style": "演習",
+        "classification": "",
+        "page": "department_id=15&subject_id=0009&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "情報・ソフトウェア系",
+        "semester": "前期",
+        "name": "情報工学基礎実習Ⅰ",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "阿部 林治",
+            "和山 正人"
+        ],
+        "class_style": "実験",
+        "classification": "",
+        "page": "department_id=15&subject_id=0010&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "情報・ソフトウェア系",
+        "semester": "後期",
+        "name": "情報工学基礎実習Ⅱ",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "和山 正人",
+            "村上 力"
+        ],
+        "class_style": "実験",
+        "classification": "",
+        "page": "department_id=15&subject_id=0011&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "情報・ソフトウェア系",
+        "semester": "前期",
+        "name": "未来創造セミナー",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "小保方 幸次"
+        ],
+        "class_style": "演習",
+        "classification": "",
+        "page": "department_id=15&subject_id=0012&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "情報・ソフトウェア系",
+        "semester": "後期",
+        "name": "分野展開セミナー",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "小林 健一"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=15&subject_id=0013&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "情報・ソフトウェア系",
+        "semester": "前期",
+        "name": "応用物理Ⅰ",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "白井 仁人"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=15&subject_id=0014&year=2022&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "情報・ソフトウェア系",
+        "semester": "前期",
+        "name": "社会実装演習Ⅰ",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "小保方 幸次"
+        ],
+        "class_style": "演習",
+        "classification": "",
+        "page": "department_id=15&subject_id=0015&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "情報・ソフトウェア系",
+        "semester": "後期",
+        "name": "社会実装演習Ⅱ",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "小保方 幸次"
+        ],
+        "class_style": "演習",
+        "classification": "",
+        "page": "department_id=15&subject_id=0016&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "情報・ソフトウェア系",
+        "semester": "後期",
+        "name": "分野専門セミナー",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "村上 力"
+        ],
+        "class_style": "実習",
+        "classification": "",
+        "page": "department_id=15&subject_id=0017&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "情報・ソフトウェア系",
+        "semester": "後期",
+        "name": "地域創造学",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "阿部 林治",
+            "小林 健一"
+        ],
+        "class_style": "演習",
+        "classification": "",
+        "page": "department_id=15&subject_id=0018&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "情報・ソフトウェア系",
+        "semester": "前期",
+        "name": "数値解析",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "小野 宣明"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=15&subject_id=0019&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "情報・ソフトウェア系",
+        "semester": "前期",
+        "name": "データ構造とアルゴリズムI",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "小保方 幸次"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=15&subject_id=0020&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "情報・ソフトウェア系",
+        "semester": "後期",
+        "name": "データ構造とアルゴリズムII",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "小保方 幸次"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=15&subject_id=0021&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "情報・ソフトウェア系",
+        "semester": "後期",
+        "name": "画像処理",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "小林 健一"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=15&subject_id=0022&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "情報・ソフトウェア系",
+        "semester": "後期",
+        "name": "計算機アーキテクチャー",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "阿部 林治",
+            "曾根 周作"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=15&subject_id=0023&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "情報・ソフトウェア系",
+        "semester": "前期",
+        "name": "ネットワークシステム",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "和山 正人"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=15&subject_id=0024&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "情報・ソフトウェア系",
+        "semester": "前期",
+        "name": "情報倫理",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "千田 栄幸",
+            "遠藤  新一"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=15&subject_id=0025&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "情報・ソフトウェア系",
+        "semester": "前期",
+        "name": "情報処理実習Ⅰ",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "松尾 直志",
+            "村上 力"
+        ],
+        "class_style": "実習",
+        "classification": "",
+        "page": "department_id=15&subject_id=0026&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "情報・ソフトウェア系",
+        "semester": "後期",
+        "name": "情報処理実習Ⅱ",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "千田 栄幸",
+            "和山 正人"
+        ],
+        "class_style": "実習",
+        "classification": "",
+        "page": "department_id=15&subject_id=0027&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "情報・ソフトウェア系",
+        "semester": "前期",
+        "name": "応用数学",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "松尾 直志"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=15&subject_id=0028&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "情報・ソフトウェア系",
+        "semester": "後期",
+        "name": "微分方程式",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "松尾 直志"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=15&subject_id=0029&year=2021&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "情報・ソフトウェア系",
+        "semester": "通年",
+        "name": "卒業研究",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "10",
+        "instructors": [
+            "水津 俊介"
+        ],
+        "class_style": "演習",
+        "classification": "",
+        "page": "department_id=15&subject_id=0030&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "情報・ソフトウェア系",
+        "semester": "後期",
+        "name": "工業英語",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "水津 俊介"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=15&subject_id=0031&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "情報・ソフトウェア系",
+        "semester": "後期",
+        "name": "情報理論",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "千田 栄幸"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=15&subject_id=0032&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "情報・ソフトウェア系",
+        "semester": "前期",
+        "name": "暗号理論",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "千田 栄幸"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=15&subject_id=0033&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "情報・ソフトウェア系",
+        "semester": "後期",
+        "name": "情報セキュリティ特論",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "和山 正人",
+            "千田 栄幸"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=15&subject_id=0034&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "情報・ソフトウェア系",
+        "semester": "後期",
+        "name": "CG",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "水津 俊介"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=15&subject_id=0035&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "情報・ソフトウェア系",
+        "semester": "前期",
+        "name": "オペレーティングシステム",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "水津 俊介"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=15&subject_id=0036&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "情報・ソフトウェア系",
+        "semester": "後期",
+        "name": "データベース",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "遠藤  新一"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=15&subject_id=0037&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "情報・ソフトウェア系",
+        "semester": "前期",
+        "name": "モデリング",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "松尾 直志"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=15&subject_id=0038&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "情報・ソフトウェア系",
+        "semester": "後期",
+        "name": "ディジタル信号処理",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "豊田 計時",
+            "遠藤  新一"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=15&subject_id=0039&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "情報・ソフトウェア系",
+        "semester": "前期",
+        "name": "センサー工学",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "阿部 林治",
+            "遠藤  新一"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=15&subject_id=0040&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "情報・ソフトウェア系",
+        "semester": "後期",
+        "name": "知能ロボティクス",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "松尾 直志",
+            "曾根 周作"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=15&subject_id=0041&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "情報・ソフトウェア系",
+        "semester": "前期",
+        "name": "情報特論",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "小保方 幸次"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=15&subject_id=0042&year=2020&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "化学・バイオ系",
+        "semester": "後期",
+        "name": "基礎有機化学",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "岡本 健"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0001&year=2023&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "化学・バイオ系",
+        "semester": "前期",
+        "name": "分析化学",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "照井 教文"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0002&year=2023&lang=ja"
+    },
+    {
+        "grade": "2",
+        "department": "化学・バイオ系",
+        "semester": "通年",
+        "name": "分析・無機化学実験",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "4",
+        "instructors": [
+            "照井 教文",
+            "大嶋 江利子",
+            "冨永 陽子"
+        ],
+        "class_style": "実験",
+        "classification": "",
+        "page": "department_id=16&subject_id=0003&year=2023&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "化学・バイオ系",
+        "semester": "後期",
+        "name": "有機化学Ⅰ",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "岡本 健"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0004&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "化学・バイオ系",
+        "semester": "前期",
+        "name": "物理化学Ⅰ",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "滝渡 幸治"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0005&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "化学・バイオ系",
+        "semester": "前期",
+        "name": "基礎化学工学Ⅰ",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "木村 寛恵"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0006&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "化学・バイオ系",
+        "semester": "後期",
+        "name": "単位操作",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "佐藤 和久"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0007&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "化学・バイオ系",
+        "semester": "前期",
+        "name": "基礎生物工学Ａ",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "戸谷 一英",
+            "渡邊 崇"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0008&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "化学・バイオ系",
+        "semester": "前期",
+        "name": "有機化学実験",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "岡本 健",
+            "大嶋 江利子"
+        ],
+        "class_style": "実験",
+        "classification": "",
+        "page": "department_id=16&subject_id=0009&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "化学・バイオ系",
+        "semester": "後期",
+        "name": "物理化学実験",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "福村 卓也",
+            "木村 寛恵",
+            "二階堂 満"
+        ],
+        "class_style": "実験",
+        "classification": "",
+        "page": "department_id=16&subject_id=0010&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "化学・バイオ系",
+        "semester": "前期",
+        "name": "未来創造セミナー",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "佐藤 和久",
+            "星 靖"
+        ],
+        "class_style": "演習",
+        "classification": "",
+        "page": "department_id=16&subject_id=0011&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "化学・バイオ系",
+        "semester": "後期",
+        "name": "分野展開セミナー",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "渡邊 崇"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0012&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "化学・バイオ系",
+        "semester": "後期",
+        "name": "基礎生物工学Ｂ",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "戸谷 一英",
+            "渡邊 崇"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0013&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "化学・バイオ系",
+        "semester": "後期",
+        "name": "無機化学I",
+        "category": "専門/必修",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "大嶋 江利子"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0014&year=2022&lang=ja"
+    },
+    {
+        "grade": "3",
+        "department": "化学・バイオ系",
+        "semester": "前期",
+        "name": "応用物理Ⅰ",
+        "category": "専門/必修",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "白井 仁人"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0015&year=2022&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "化学・バイオ系",
+        "semester": "後期",
+        "name": "分野専門セミナー",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "渡邊 崇"
+        ],
+        "class_style": "実習",
+        "classification": "",
+        "page": "department_id=16&subject_id=0017&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "化学・バイオ系",
+        "semester": "後期",
+        "name": "地域創造学",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "戸谷 一英",
+            "本間 俊将"
+        ],
+        "class_style": "演習",
+        "classification": "",
+        "page": "department_id=16&subject_id=0018&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "化学・バイオ系",
+        "semester": "通年",
+        "name": "化学工学・バイオ実験Ⅰ",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "4",
+        "instructors": [
+            "渡邊 崇",
+            "福村 卓也",
+            "滝渡 幸治",
+            "中川 裕子",
+            "二階堂 満"
+        ],
+        "class_style": "実験",
+        "classification": "",
+        "page": "department_id=16&subject_id=0019&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "化学・バイオ系",
+        "semester": "前期",
+        "name": "有機化学Ⅱ",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "岡本 健"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0020&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "化学・バイオ系",
+        "semester": "前期",
+        "name": "無機化学Ⅱ",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "大嶋 江利子"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0021&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "化学・バイオ系",
+        "semester": "前期",
+        "name": "機器分析",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "照井 教文"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0022&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "化学・バイオ系",
+        "semester": "前期",
+        "name": "物理化学Ⅱ",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "二階堂 満"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0023&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "化学・バイオ系",
+        "semester": "後期",
+        "name": "物理化学Ⅲ",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "二階堂 満"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0024&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "化学・バイオ系",
+        "semester": "前期",
+        "name": "反応工学",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "福村 卓也"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0025&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "化学・バイオ系",
+        "semester": "後期",
+        "name": "基礎化学工学Ⅱ",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "福村 卓也"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0026&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "化学・バイオ系",
+        "semester": "後期",
+        "name": "生物反応工学",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "佐藤 和久"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0027&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "化学・バイオ系",
+        "semester": "後期",
+        "name": "情報処理",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "佐藤 和久"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0028&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "化学・バイオ系",
+        "semester": "後期",
+        "name": "応用数学",
+        "category": "専門/必修",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "滝渡 幸治"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0029&year=2021&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "化学・バイオ系",
+        "semester": "前期",
+        "name": "応用物理Ⅱ",
+        "category": "専門/必修",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "長谷川 幸彦"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0030&year=2021&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "化学・バイオ系",
+        "semester": "通年",
+        "name": "卒業研究",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "10",
+        "instructors": [
+            "渡邊 崇"
+        ],
+        "class_style": "演習",
+        "classification": "",
+        "page": "department_id=16&subject_id=0030&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "化学・バイオ系",
+        "semester": "前期",
+        "name": "化学工学・バイオ実験Ⅱ",
+        "category": "専門/必修",
+        "credit_type": "履修単位",
+        "credits": "2",
+        "instructors": [
+            "佐藤 和久",
+            "福村 卓也",
+            "木村 寛恵",
+            "渡邊 崇",
+            "中川 裕子"
+        ],
+        "class_style": "実験",
+        "classification": "",
+        "page": "department_id=16&subject_id=0031&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "化学・バイオ系",
+        "semester": "前期",
+        "name": "物理化学Ⅳ",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "二階堂 満"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0032&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "化学・バイオ系",
+        "semester": "前期",
+        "name": "化学プラント設計Ⅰ",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "佐藤 和久"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0033&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "化学・バイオ系",
+        "semester": "後期",
+        "name": "環境工学",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "照井 教文",
+            "佐藤 和久"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0034&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "化学・バイオ系",
+        "semester": "後期",
+        "name": "機械・電気工学概論",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "星 靖",
+            "三浦 弘樹"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0035&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "化学・バイオ系",
+        "semester": "後期",
+        "name": "化学プラント設計Ⅱ",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "佐藤 和久"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0036&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "化学・バイオ系",
+        "semester": "後期",
+        "name": "計測制御工学",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "福村 卓也"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0037&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "化学・バイオ系",
+        "semester": "前期",
+        "name": "無機材料化学",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "大嶋 江利子"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0038&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "化学・バイオ系",
+        "semester": "後期",
+        "name": "高分子化学",
+        "category": "専門/選択",
+        "credit_type": "履修単位",
+        "credits": "1",
+        "instructors": [
+            "岡本 健"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0039&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "化学・バイオ系",
+        "semester": "後期",
+        "name": "工業英語",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "岡本 健"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0040&year=2020&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "化学・バイオ系",
+        "semester": "前期",
+        "name": "確率統計",
+        "category": "専門/必修",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "福村 卓也"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=16&subject_id=0041&year=2020&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "分野展開・系発展",
+        "semester": "前期",
+        "name": "機械学習",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "佐藤 智治",
+            "三浦 弘樹"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=17&subject_id=0001&year=2019&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "分野展開・系発展",
+        "semester": "後期",
+        "name": "実践制御工学",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "藤原 康宣",
+            "川合 勇輔"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=17&subject_id=0002&year=2019&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "分野展開・系発展",
+        "semester": "前期",
+        "name": "化学プロセス工学Ⅰ",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "佐藤 和久"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=17&subject_id=0003&year=2019&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "分野展開・系発展",
+        "semester": "後期",
+        "name": "化学プロセス工学Ⅱ",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "木村 寛恵"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=17&subject_id=0004&year=2019&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "分野展開・系発展",
+        "semester": "前期",
+        "name": "生化学Ⅰ",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "戸谷 一英",
+            "渡邊 崇"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=17&subject_id=0005&year=2019&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "分野展開・系発展",
+        "semester": "後期",
+        "name": "生化学Ⅱ",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "戸谷 一英",
+            "渡邊 崇"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=17&subject_id=0006&year=2019&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "分野展開・系発展",
+        "semester": "前期",
+        "name": "電子工学",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "小野 孝文"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=17&subject_id=0007&year=2019&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "分野展開・系発展",
+        "semester": "後期",
+        "name": "電気通信",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "小野 孝文",
+            "川上 雅士"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=17&subject_id=0008&year=2019&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "分野展開・系発展",
+        "semester": "後期",
+        "name": "データサイエンス",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "村上 力"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=17&subject_id=0009&year=2019&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "分野展開・系発展",
+        "semester": "前期",
+        "name": "グラフ理論",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "小池 敦"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=17&subject_id=0010&year=2019&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "分野展開・系発展",
+        "semester": "前期",
+        "name": "環境・エネルギー概論Ⅰ",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "八戸 俊貴"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=17&subject_id=0011&year=2019&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "分野展開・系発展",
+        "semester": "後期",
+        "name": "環境・エネルギー概論Ⅱ",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "若嶋 振一郎",
+            "照井 教文"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=17&subject_id=0012&year=2019&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "分野展開・系発展",
+        "semester": "前期",
+        "name": "先端機能性材料工学",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "佐藤 和輝",
+            "滝渡 幸治"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=17&subject_id=0013&year=2019&lang=ja"
+    },
+    {
+        "grade": "4",
+        "department": "分野展開・系発展",
+        "semester": "後期",
+        "name": "マテリアル特性評価工学",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "中嶋 剛"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=17&subject_id=0014&year=2019&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "分野展開・系発展",
+        "semester": "前期",
+        "name": "環境・エネルギー特論",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "八戸 俊貴"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=17&subject_id=0015&year=2018&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "分野展開・系発展",
+        "semester": "前期",
+        "name": "化学プロセス工学Ⅲ",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "滝渡 幸治"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=17&subject_id=0016&year=2018&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "分野展開・系発展",
+        "semester": "前期",
+        "name": "微生物工学",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "渡邊 崇"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=17&subject_id=0017&year=2018&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "分野展開・系発展",
+        "semester": "前期",
+        "name": "計算幾何学",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "小保方 幸次"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=17&subject_id=0018&year=2018&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "分野展開・系発展",
+        "semester": "前期",
+        "name": "ディジタル信号処理",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "秋田 敏宏"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=17&subject_id=0019&year=2018&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "分野展開・系発展",
+        "semester": "前期",
+        "name": "知能・システム概論",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "鈴木 明宏"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=17&subject_id=0020&year=2018&lang=ja"
+    },
+    {
+        "grade": "5",
+        "department": "分野展開・系発展",
+        "semester": "前期",
+        "name": "先端複合加工工学",
+        "category": "専門/選択",
+        "credit_type": "学修単位",
+        "credits": "2",
+        "instructors": [
+            "村上 明"
+        ],
+        "class_style": "講義",
+        "classification": "",
+        "page": "department_id=17&subject_id=0021&year=2018&lang=ja"
+    }
+]
