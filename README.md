@@ -10,6 +10,8 @@ Dockerを用いて環境構築を行い、PostgreSQL, Express, React, Node.js (P
 ```mermaid
 graph TD
     User((User/Browser))
+
+    admin(ひろと/admin)
     
     subgraph "Docker Containers"
         Client["💻 Client Container<br/>(React:3000)"]
@@ -17,11 +19,11 @@ graph TD
         DB[("🗄️ Database Container<br/>PostgreSQL:5432")]
     end
 
-    User -- "Access UI" --> Client
-    User -- "Fetch Data (JSON)" --> API
-    Client -- "API Request (axios)" --> API
-    API -- "SQL Query" --> DB
-    API -- "Exec Seed Script" --> API
+    User -- "UIアクセス" --> Client
+    Admin -- "データ取得 (JSON)" --> API
+    Client -- "APIリクエスト (axios)" --> API
+    API -- "SQLクエリ" --> DB
+    API -- "データ登録を実行" --> API
 ```
 # 🛠 技術スタック
 
