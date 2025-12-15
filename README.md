@@ -1,6 +1,5 @@
 ### 2. README.md 用ドキュメント
 
-```markdown
 # 🎓 Syllabus Database System (PERN Stack)
 
 一関高専のシラバスデータを統合・検索・閲覧するためのWebアプリケーションシステムです。
@@ -25,6 +24,7 @@ graph TD
     Client -- "API Request (axios)" --> API
     API -- "SQL Query" --> DB
     API -- "Exec Seed Script" --> API
+```
 🛠 技術スタックカテゴリ技術説明FrontendReactユーザーインターフェースBackendExpress.jsREST APIサーバーDatabasePostgreSQLリレーショナルデータベースEnvironmentDocker / Composeコンテナ仮想化環境🚀 環境構築と起動方法前提条件Docker Desktop がインストールされ、起動していること。1. アプリケーションの起動プロジェクトのルートディレクトリで以下のコマンドを実行します。Bashdocker compose up --build -d
 初回はビルドに数分かかります。-d オプションでバックエンド実行になります。2. データベースのセットアップ (Seeding)コンテナ起動後、JSONデータをデータベースに登録するために以下のコマンドを実行します。Bashdocker compose exec api node seed.js
 成功すると ✨ 全データの登録が完了しました！ と表示されます。3. アクセスURLWebアプリ: http://localhost:3000APIエンドポイント: http://localhost:3001/api/subjects📂 データベース設計 (Schema)データベース syllabusdb 内には以下のテーブルが作成されます。1. subjects (科目テーブル)科目の基本情報を管理します。カラム名型説明subject_idSERIAL (PK)自動採番IDsubject_nameVARCHAR科目名gradeINTEGER対象学年departmentVARCHAR学科/系syllabus_urlTEXT公式シラバスへのリンクパラメータ......(単位数、区分など)2. instructors (教員テーブル)教員名を一意に管理します。カラム名型説明instructor_idSERIAL (PK)教員IDinstructor_nameVARCHAR教員名 (Unique)3. subject_assignment (担当割当テーブル)科目と教員を多対多で紐付けます。💻 開発ガイドフォルダ構成.
