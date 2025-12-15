@@ -50,7 +50,7 @@ docker compose up --build -d
 ### 1. データベースのセットアップ (Seeding)
 コンテナ起動後、JSONデータをデータベースに登録するために以下のコマンドを実行します。
 ```bash
-Bashdocker compose exec api node seed.js
+docker compose exec api node seed.js
 ```
 成功すると `✨ 全データの登録が完了しました！` と表示されます。
 ### 3. アクセスURL
