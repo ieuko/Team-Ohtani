@@ -20,7 +20,7 @@ graph TD
     end
 
     User -- "UIアクセス" --> Client
-    Admin -- "データ取得 (JSON)" --> API
+    Admin -- "データ供給 (JSON)" --> API
     Client -- "APIリクエスト (axios)" --> API
     API -- "SQLクエリ" --> DB
     API -- "データ登録を実行" --> API
