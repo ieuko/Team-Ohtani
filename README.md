@@ -14,9 +14,9 @@ graph TD
     User((User/Browser))
     
     subgraph "Docker Containers"
-        Client[💻 Client Container<br/>(React:3000)]
-        API[⚙️ API Container<br/>(Express:3001)]
-        DB[(🗄️ Database Container<br/>PostgreSQL:5432)]
+        Client["💻 Client Container<br/>(React:3000)"]
+        API["⚙️ API Container<br/>(Express:3001)"]
+        DB[("🗄️ Database Container<br/>PostgreSQL:5432")]
     end
 
     User -- "Access UI" --> Client
