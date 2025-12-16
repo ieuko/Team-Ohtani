@@ -11,7 +11,7 @@ Dockerを用いて環境構築を行い、PostgreSQL, Express, React, Node.js (P
 graph TD
     User((User/Browser))
 
-    Admin((ひろと/admin))
+    Admin((大谷翔平))
     
     subgraph "Docker Containers"
         Client["💻 Client Container<br/>(React:3000)"]
