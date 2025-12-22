@@ -55,7 +55,7 @@ docker compose exec api node seed.js
 成功すると `✨ 全データの登録が完了しました！` と表示されます。
 ### 3. アクセスURL
 * **Webアプリ**: http://localhost:3000
-* **APIエンドポイント**: http://localhost:3001/api/subjects📂
+* **APIエンドポイント**: http://localhost:3001/api/subjects
 # 📂データベース設計 (Schema)
 データベース `syllabusdb` 内には以下のテーブルが作成されます。
 ### 1. `subjects` (科目テーブル)
